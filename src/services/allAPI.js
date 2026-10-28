@@ -1,4 +1,4 @@
-import axiosConfig from "./axiosconfig";
+import axiosConfig from "./axiosConfig";
 import { BASEURL } from "./BaseURL";
 
 export const addResume = async (reqbody) => {
